@@ -1,0 +1,22 @@
+{
+  "name": "apollo-mongodb-file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo": "^2.28.0",
+    "apollo-server": "^2.14.0",
+    "graphql": "^15.0.0",
+    "mongoose": "^5.9.16",
+    "nodemon": "^2.0.4",
+    "server": "^1.0.27",
+    "shortid": "^2.2.15"
+  }
+}
