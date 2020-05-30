@@ -11,3 +11,5 @@ https://mongodb.github.io/node-mongodb-native/2.1/api/GridFSBucket.html
 https://lorefnon.tech/2018/08/20/uploading-files-to-mongodb-gridfs-via-apollo-powered-graphql-api/
 https://github.com/jaydenseric/graphql-upload/issues/51
 https://stackoverflow.com/questions/47662220/db-collection-is-not-a-function-when-using-mongoclient-v3-0
+
+https://dev.to/dnature/handling-file-uploads-with-apollo-server-2-0-14n7
